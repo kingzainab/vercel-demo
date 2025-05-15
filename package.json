@@ -1,8 +1,8 @@
 {
-    "name": "vercel-demo",
-    "version": "1.0.0",
-    "scripts": 
+ 	  "name": "vercel-autoscale-demo",
+ 	  "version": "1.0.0",
+ 	  "scripts": 
     {
-      "start": "node api/hello.js"
-    }
-}
+ 	    "start": "node api/hello.js"
+ 	  }
+  }
