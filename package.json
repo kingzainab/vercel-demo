@@ -1,8 +1,10 @@
 {
  	  "name": "vercel-autoscale-demo",
  	  "version": "1.0.0",
- 	  "scripts": 
-    {
- 	    "start": "node api/add-user.js"
+ 	  "scripts": {
+ 	   	  "start": "node api/add-user.js"
+ 	  },
+ 	  "dependencies": {
+ 	   	  "mongodb": "^6.16.0"
  	  }
-  }
+}
